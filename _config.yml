@@ -125,3 +125,8 @@ algolia:
     - slug
     - tags
     - title
+
+search:
+	path: search.xml
+	field: post
+	content: true
