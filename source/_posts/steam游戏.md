@@ -5,7 +5,6 @@ abbrlink: f54e886e
 tags: steam
 date: 2020-06-10 22:25:00
 cover: /image/cover/steam.jpg
-top_img: /image/top/steam.jpg
 ---
 游戏|类型|关键词|一句话感想
 :-:|:-:|:-:|:-:
