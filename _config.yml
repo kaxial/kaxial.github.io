@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Say what I like
+title: Kaxial's thought
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://kaxial.github.io/
 # permalink: :year/:month/:day/:title/
 permalink: posts/:abbrlink.html
 abbrlink:
@@ -109,3 +109,19 @@ deploy:
   type: git
   repository: git@kaxial.github.com:kaxial/kaxial.github.io.git
   branch: main
+
+algolia: 
+  appId: "SGRW1MABI1"
+  apiKey: "e6c24abd37f141c00eb10b546846027c"
+  adminApiKey: "49042a5bf5a92fba5faa9ad2286a7b0f"
+  chunkSize: 5000
+  indexName: "my-hexo-blog"
+  fields:
+    - content:strip:truncate,0,500
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
