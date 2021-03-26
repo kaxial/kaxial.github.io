@@ -524,7 +524,7 @@ tag_ui: # 留空或 index
 background:
 
 # Footer Background
-footer_bg: false
+footer_bg: true
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -581,13 +581,50 @@ click_heart:
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
-  enable: false
+  enable: true
   text:
+    - elsanna
+    - 肖根
+    - 玉梦
+    - 一元
+    - 城内
+    - 红白
+    - 敏若
+    - daokoi
+    - さよひな
+    - ゆきリサ
+    - 奈菲
+    - 师生组
+    - 皇女贝
+    - JudyV
+    - 凉薇
+    - 洛师
+    - 风灵玉秀
+    - Life Is Strange
+    - 粉黑
+    - 久丽
+    - やがて君になる
+    - リズと青い鳥
+    - pripri
+    - yuyuyu
+    - 戴亚
+    - 芽副
+    - 桃清
+    - 尤赫
+    - 结京
+    - 龙怜
+    - 迷宫组
+    - 六唐
+    - 静夏
+    - 妮姬
+    - 绘海
+    - 夜梨
+    - 步侑
     # - I
     # - LOVE
     # - YOU
   fontSize: 15px
-  random: false
+  random: true
   mobile: false
 
 # Default display mode (網站默認的顯示模式)
