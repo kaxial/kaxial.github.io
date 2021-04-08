@@ -6,6 +6,7 @@ tags: steam
 date: 2020-06-10 22:25:00
 cover: /image/cover/steam.jpg
 ---
+
 游戏|类型|关键词|一句话感想
 :-:|:-:|:-:|:-:
 [Life is Strange](https://store.steampowered.com/sub/56692/)|互动式电影|美国校园，百合|Super Max！
