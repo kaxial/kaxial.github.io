@@ -22,7 +22,8 @@ cover: /image/cover/steam.jpg
 [Machinarium](https://store.steampowered.com/app/40700/_Machinarium/)|解谜，indie|机器人，美术风格|没有攻略我要花很长时间
 [Little Nightmares](https://store.steampowered.com/app/424840/Little_Nightmares/)|解谜|恐怖|
 [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)|解谜，indie|创意|
-[Layers of Fear](https://store.steampowered.com/app/391720/Layers_of_Fear/)|解谜，恐怖|画家|dlc我是真打不下去，晕的想吐
+[Layers of Fear](https://store.steampowered.com/app/391720/Layers_of_Fear/)|解谜，恐怖|画家，第一人称|dlc我是真打不下去，晕的想吐
+[Layers of Fear 2](https://store.steampowered.com/app/1029890/Layers_of_Fear_2)|解谜，恐怖|演员，第一人称|低亮度+找路，第三章玩的我快弃了；玩法我认为不如前作
 [GNOG](https://store.steampowered.com/app/290510/GNOG/)|解谜，indie||流程短，但是很好玩
 [APE OUT](https://store.steampowered.com/app/447150/APE_OUT/)|ACT，indie|爵士，俯视，逃脱|这个游戏我也很晕，一般
 [Hotline Miami 2: Wrong Number](https://store.steampowered.com/app/274170/Hotline_Miami_2_Wrong_Number/)|ACT，indie|美术风格，俯视，射击，像素|玩的很爽，就是手残
