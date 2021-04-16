@@ -109,7 +109,7 @@ Sing away！Sing away！&nbsp;&nbsp;&nbsp;&nbsp;<ruby>歌<rt>うた</rt></ruby>�
 
 More！Sing away！Sing away！
 
-<ruby>魅<rt>み</rt></ruby>せよう&nbsp;&nbsp;&nbsp;&nbsp;<ruby>新<rt>あら</rt></ruby>たな姿(すがた)を
+<ruby>魅<rt>み</rt></ruby>せよう&nbsp;&nbsp;&nbsp;&nbsp;<ruby>新<rt>あら</rt></ruby>たな<ruby>姿<rt>すがた</rt></ruby>を
 
 Wo wo wow…
 

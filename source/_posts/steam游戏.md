@@ -40,3 +40,4 @@ cover: /image/cover/steam.jpg
 [Doki Doki Literature Club!](https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/)|galgame|meta|真.心跳
 [Tomb Raider 9](https://store.steampowered.com/app/203160/Tomb_Raider/)/[10](https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/)/[11](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/)|ACT,TPS|墓地
 [Cyberpunk 2077](https://store.steampowered.com/app/1091500/_2077/)|ARPG,FPS|赛博朋克|Judy…
+[Her Story](https://store.steampowered.com/app/368370/Her_Story/)|推理|真人|玩到途中时就感到了那个活泼一点的对sister深深的执念，果然
