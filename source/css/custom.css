@@ -42,3 +42,69 @@ body:not(.heimu_toggle_on) .heimu.off .new,body:not(.heimu_toggle_on) .heimu.off
 .r-lk{
     color:#BBBBBB;
 }
+
+.vbs-khn{
+    color:#fc689a;
+}
+.vbs-an{
+    color:#2abbdb;
+}
+.vbs-akt{
+    color:#fb7828;
+}
+.vbs-ty{
+    color:#2677db;
+}
+.vbs-chorus{
+    color:#eb1766;
+}
+.miku{
+    color:#39C5BB;
+}
+.vbs-container {
+    position: absolute;
+}
+.vbs-tyak{
+    color:#fb7828;
+}
+.vbs-tyak::before {
+    position: absolute;
+    height: 50%;
+    content: attr(content);
+    overflow: hidden;
+    color:#2677db;
+    z-index: 999;
+}
+.vbs-akty{
+    color:#2677db;
+}
+.vbs-akty::before {
+    position: absolute;
+    height: 50%;
+    content: attr(content);
+    overflow: hidden;
+    color:#fb7828;
+    z-index: 999;
+}
+.vbs-khan{
+    color:#2abbdb;
+}
+.vbs-khan::before{
+    position:absolute;
+    height: 50%;
+    content:attr(content);
+    overflow:hidden;
+    color:#fc689a;
+    z-index: 999;
+}
+.vbs-ankh{
+    color:#fc689a;
+}
+.vbs-ankh::before{
+    position:absolute;
+    height: 50%;
+    content:attr(content);
+    overflow:hidden;
+    color:#2abbdb;
+    z-index: 999;
+}
