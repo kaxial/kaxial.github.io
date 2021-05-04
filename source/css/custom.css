@@ -44,19 +44,19 @@ body:not(.heimu_toggle_on) .heimu.off .new,body:not(.heimu_toggle_on) .heimu.off
 }
 
 .vbs-khn{
-    color:#fc689a;
+    color:#ff6699;
 }
 .vbs-an{
-    color:#2abbdb;
+    color:#00bbdd;
 }
 .vbs-akt{
-    color:#fb7828;
+    color:#ff7722;
 }
 .vbs-ty{
-    color:#2677db;
+    color:#0077dd;
 }
 .vbs-chorus{
-    color:#eb1766;
+    color:#ee1166;
 }
 .miku{
     color:#39C5BB;
@@ -65,46 +65,46 @@ body:not(.heimu_toggle_on) .heimu.off .new,body:not(.heimu_toggle_on) .heimu.off
     position: absolute;
 }
 .vbs-tyak{
-    color:#fb7828;
+    color:#ff7722;
 }
 .vbs-tyak::before {
     position: absolute;
     height: 50%;
     content: attr(content);
     overflow: hidden;
-    color:#2677db;
+    color:#0077dd;
     z-index: 999;
 }
 .vbs-akty{
-    color:#2677db;
+    color:#0077dd;
 }
 .vbs-akty::before {
     position: absolute;
     height: 50%;
     content: attr(content);
     overflow: hidden;
-    color:#fb7828;
+    color:#ff7722;
     z-index: 999;
 }
 .vbs-khan{
-    color:#2abbdb;
+    color:#00bbdd;
 }
 .vbs-khan::before{
     position:absolute;
     height: 50%;
     content:attr(content);
     overflow:hidden;
-    color:#fc689a;
+    color:#ff6699;
     z-index: 999;
 }
 .vbs-ankh{
-    color:#fc689a;
+    color:#ff6699;
 }
 .vbs-ankh::before{
     position:absolute;
     height: 50%;
     content:attr(content);
     overflow:hidden;
-    color:#2abbdb;
+    color:#00bbdd;
     z-index: 999;
 }

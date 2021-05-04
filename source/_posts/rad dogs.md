@@ -12,6 +12,9 @@ date: 2021-04-27 21:30:00
 作词：q*Left
 <iframe src="//player.bilibili.com/player.html?aid=801737894&bvid=BV1Py4y1J74c&cid=298082186&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="550" height="360" allowfullscreen="true"> </iframe>
 
+Vivids ver. (真的很帅！)
+<iframe src="//player.bilibili.com/player.html?aid=544812765&bvid=BV1Bi4y1P78j&cid=317099007&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="550" height="360" allowfullscreen="true"> </iframe>
+
 SEKAI ver. VOCAL：
 <span class="vbs-khn">小豆沢こはね（CV：秋奈）</span>
 <span class="vbs-an">白石杏（CV：鷲見友美ジェナ）</span>
