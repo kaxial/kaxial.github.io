@@ -1,6 +1,8 @@
 ---
 title: Project Sekai
-categories: 生活
+categories: 
+  - 生活
+  - 手游
 abbrlink: e33c1f93
 tags: プロセカ
 cover: /image/cover/pjsk.jpg

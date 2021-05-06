@@ -2,7 +2,9 @@
 title: BanG Dream
 abbrlink: ae444a30
 date: 2020-09-05 09:59:00
-categories: 生活
+categories: 
+  - 生活
+  - 手游
 tags: バンドリ
 cover: /image/cover/bgd.png
 ---
