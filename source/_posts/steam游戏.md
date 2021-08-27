@@ -42,3 +42,5 @@ cover: /image/cover/steam.jpg
 [Cyberpunk 2077](https://store.steampowered.com/app/1091500/_2077/)|ARPG,FPS|赛博朋克|Judy…
 [Her Story](https://store.steampowered.com/app/368370/Her_Story/)|indie|推理，真人|玩到途中时就感到了那个活泼一点的对sister深深的执念，果然
 [The Beginner's Guide](https://store.steampowered.com/app/303210/The_Beginners_Guide/)|indie|meta|我到底玩了个啥？玩过之后可以去看看这个[解读](https://www.bilibili.com/video/BV1Tx411h7hS?from=search&seid=2684904862506096886)
+[There Is No Game: Wrong Dimension](https://store.steampowered.com/app/1240210/There_Is_No_Game_Wrong_Dimension/)|indie，解谜|meta|挺有趣的游戏
+[ICEY](https://store.steampowered.com/app/553640/ICEY/)|ACT|横版，meta|调戏旁白
