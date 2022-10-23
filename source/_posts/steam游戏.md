@@ -45,3 +45,4 @@ cover: /image/cover/steam.jpg
 [There Is No Game: Wrong Dimension](https://store.steampowered.com/app/1240210/There_Is_No_Game_Wrong_Dimension/)|indie，解谜|meta|挺有趣的游戏
 [ICEY](https://store.steampowered.com/app/553640/ICEY/)|ACT|横版，meta|调戏旁白
 [To the Moon](https://store.steampowered.com/app/206440/To_the_Moon/)<br />[A Bird Story](https://store.steampowered.com/app/327410/A_Bird_Story/)<br />[Finding Paradise](https://store.steampowered.com/app/337340/Finding_Paradise/)<br />[Impostor Factory](https://store.steampowered.com/app/1182620/Impostor_Factory/)|indie|剧情向|音乐挺好听的，但我不是很感冒这种催泪向的游戏
+[Stray](https://store.steampowered.com/app/1332010/Stray/)|indie|第一猫称|游戏性其实一般，不过那可是猫猫啊
