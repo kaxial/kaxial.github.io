@@ -34,7 +34,7 @@ FLOWERS[春](https://store.steampowered.com/app/452440/Flowers_Le_volume_sur_pri
 片羽|待玩，一直在等重制版上架
 [致命十二人](https://store.steampowered.com/app/620210/Fatal_Twelve/)|海晴的声音和我想象的不一样，而且还是个僕娘。TE应该是future吧，这选项告诉我们有要事时不要谈恋爱！
 九段之都市传说|DLsite上可以买，志水的又一力作，推理依旧槽点满满，TE线三人行警告。但画风很不错。
-[梅时露霁书~雨潺海汐间~](https://store.steampowered.com/app/1637370/)|小甜饼，玩玩不亏。
+[梅时露霁书 \~雨潺海汐间~](https://store.steampowered.com/app/1637370/)|小甜饼，玩玩不亏。
 Ever Maiden|非常推荐。画风独特；剧情很不错，挖的坑都填了。
 [天作之合的我们1](https://store.steampowered.com/app/2062210/_1/)|很短，剧情都还没展开，推荐完结了再推。
 
@@ -55,10 +55,6 @@ Ever Maiden|非常推荐。画风独特；剧情很不错，挖的坑都填了�
 ## 国产
 游戏|简评
 :-:|:-
-[花语：百合](https://store.steampowered.com/app/986280/Lingua_Fleur_Lily/)|本来没怎么期待
-这游戏的，而且还是台湾腔。但是剧情意外的不错，到后面配音也听得没那么违和了。虽然最后两女主没有明确的说在一起，但成长过程也是值得一看的。
-白鹭社聆花系列[寄甡](https://store.steampowered.com/app/948830/__Symbiotic_Love/)<br />
-[千面](https://store.steampowered.com/app/1168470/_Melancholy_Love/)<br />
-[夜永](https://store.steampowered.com/app/1416240/_Eternal_Love/)<br />
-[秘密舞会](https://store.steampowered.com/app/1494190/)|剧情都还行，就是skip键不好用。
+[花语：百合](https://store.steampowered.com/app/986280/Lingua_Fleur_Lily/)|本来没怎么期待这游戏的，而且还是台湾腔。但是剧情意外的不错，到后面配音也听得没那么违和了。虽然最后两女主没有明确的说在一起，但成长过程也是值得一看的。
+白鹭社聆花系列<br />[寄甡](https://store.steampowered.com/app/948830/__Symbiotic_Love/) [千面](https://store.steampowered.com/app/1168470/_Melancholy_Love/) [夜永](https://store.steampowered.com/app/1416240/_Eternal_Love/) [秘密舞会](https://store.steampowered.com/app/1494190/)|剧情都还行，就是skip键不好用。
 [回溯依存](https://store.steampowered.com/app/1398740/)|推理部分还行，虽然一眼就能猜出来，看分析过程还是挺有意思的。画风独特。但是丢一堆名词出来有点堆设定的意思，当然不看也不影响剧情。
